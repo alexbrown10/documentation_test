@@ -25,14 +25,17 @@ theme:
   features:
     - navigation.footer
 
-# Navigation Tree
+# Page Tree
 nav:
   - Home: index.md
   - Getting Started: 
-    - Installation: 
+    - Installation: installation.md
   - Tutorials:
+    - tutorial-1.md
+    - tutorial-2.md
   - Reference:
-  - API:
+    - glossary.md
+  - API: openapi_spec.md
 
 # Extension List
 markdown_extensions:
