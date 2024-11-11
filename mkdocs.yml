@@ -25,6 +25,16 @@ theme:
   features:
     - navigation.footer
 
+# Navigation Tree
+nav:
+  - Home: index.md
+  - Getting Started: 
+    - Installation: 
+  - Tutorials:
+  - Reference:
+  - API:
+
+# Extension List
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -39,6 +49,8 @@ markdown_extensions:
   - pymdownx.superfences
   - admonition
   - pymdownx.details
+
+# Extra configs
 extra:
   generator: false
 copyright: Copyright &copy; 2024 Alex Brown
