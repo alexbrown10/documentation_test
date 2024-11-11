@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Alex's Documentation Deployment Test
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a quick example of a documentation hub deployed via [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/), that was deployed in ~30 minutes. 
 
-## Commands
+Changes made to the Github repo are automatically processed via Github Actions to be deployed to the [main hosted site](https://alexbrown10.github.io/documentation_test/). 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+There is a wide range of customization options available, as described on the main Material for MKDocs [Customization Page](https://squidfunk.github.io/mkdocs-material/setup/), so further CSS, Javascript, design, and layout options can be explored. 
