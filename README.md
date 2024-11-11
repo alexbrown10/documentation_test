@@ -1,5 +1,6 @@
-# documentation_test
-Test website to generate a docs site using MKDocs as a SSG
+# documentation_test Home page
+
+Test website to generate a docs site using Material for MKDocs as a SSG
 
 !!! tip
   here's a text box that shows a neat tip. 
