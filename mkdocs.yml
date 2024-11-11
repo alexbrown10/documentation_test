@@ -30,12 +30,14 @@ theme:
   # Added features
   features:
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    - navigation.path
+    # - navigation.path (paywall-gated)
     - navigation.top
     - toc.follow
     - search.suggest
