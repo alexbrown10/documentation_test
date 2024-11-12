@@ -1,6 +1,6 @@
 # documentation_test Home page
 
-Test website to generate a docs site using Material for MKDocs as a SSG
+Test website to generate an [example docs hub](https://alexbrown10.github.io/documentation_test/) using Material for MKDocs as a SSG
 
 > [!Tip]
 > here's a text box that shows a neat tip. 
