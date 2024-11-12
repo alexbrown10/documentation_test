@@ -1,4 +1,4 @@
-# Example Installation Guide
+# Installation Guide
 
 This is an example installation guide. Email support for more help. 
 
@@ -14,9 +14,9 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Fames eu augue feugiat ultr
 - Turpis eget natoque lacus tempus primis parturient.
 
 ??? tip "Non morbi"
-  ```
+  
   Non morbi morbi est proin fusce varius felis. Rhoncus metus scelerisque vehicula sollicitudin parturient porttitor vel est.
-  ```
+  
 
 ## Non aptent malesuada sodales nec aliquet suscipit tempor ipsum
 
@@ -27,10 +27,9 @@ Non aptent malesuada sodales nec aliquet suscipit tempor ipsum. Aliquet lacinia 
 Faucibus torquent suscipit taciti tincidunt eros diam penatibus massa. Inceptos per finibus placerat; sodales platea molestie.
 
 !!! warning "Sit Hac Phasellus"
-  ```
+  
   Sit hac phasellus phasellus habitasse libero odio elit consectetur.
-  ```
-
+  
 #### Justo gravida vestibulum molestie nullam dis vel feugiat. 
 
 Elementum pretium venenatis nisl cubilia; nisi ullamcorper tincidunt gravida nec.
@@ -46,10 +45,9 @@ Hac nullam cubilia dolor lacinia quisque pretium pellentesque. Auctor lacus habi
 Praesent hendrerit ridiculus; tempor faucibus posuere dictum amet. In porta eu vitae; bibendum odio accumsan. Faucibus magna per dapibus suspendisse gravida cras pellentesque.
 
 !!! question "Auctor lacus habitant dictumst inceptos mus lacinia penatibus facilisis litora?"
-  ```
+  
   Etiam sem finibus aliquet nec donec etiam penatibus auctor. Sapien litora pellentesque eros nibh volutpat, tempor platea porttitor.
-  ```
-
+  
 ## Nam vulputate consequat nisi massa condimentum dolor.
 
 Nam vulputate consequat nisi massa condimentum dolor. Erat quisque tortor luctus vitae viverra vitae praesent habitant. 
